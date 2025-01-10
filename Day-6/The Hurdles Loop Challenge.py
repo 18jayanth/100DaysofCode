@@ -1,3 +1,4 @@
+//In This Challenge the flag is at a specific position , the robot needs to reach it ,doing the same repeared steps , which can be organised with functions and for loop without rewriting the same code
 def turn_right():
     turn_left()
     turn_left()
