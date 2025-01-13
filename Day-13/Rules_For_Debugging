@@ -1,0 +1,27 @@
+Rule-1 Understanding The Errors (Totally Description Of Problem)
+(For Total Error Of The Problem)
+We should understand what we intend , and what it is giving the reason
+
+Rule-2 Reproduce The Problem
+(For Error in Program In Only Some Cases)
+We should try to find out the cases when this error will happen
+
+Rule-3 Play Like a Computer
+(For no output for some cases)
+Behave like a computer go through line by line and try to thing of error
+
+Rule-4 When Editor is giving errors fix it before moving forward
+Like For valueError we can catch using try except block
+
+Rule-5 Using print Wherever Possible to look what it is printing
+
+Rule-6:Use Python Debugger,step over,step in ,step out, and breakpoint functions to clearly
+see the areas where we are going wrong
+
+Rule-7:Take Break
+
+Rule-8:Ask a Friend
+
+Rule-9:Run Your Code often
+
+Rule-10:Ask Stack OverFlow
